@@ -9,13 +9,13 @@ of two parts.
     1 Player: Where you can play against an unbeatable bot that 
               uses the minimax algorithm to calculate it's moves
               
-#################################################################
+################################################################
 
 Requirements:
 
     Packages - Pygame library
     
-#################################################################
+################################################################
 
 Live demo of code:
 
