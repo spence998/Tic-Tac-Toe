@@ -1,4 +1,4 @@
-########################## Tic-Tac-Toe ##########################
+########################## Tic-Tac-Toe ############################
 
 Game of Tic-Tac-Toe made with a GUI in pygame. The game consists
 of two parts.
