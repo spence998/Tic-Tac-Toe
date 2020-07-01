@@ -1,4 +1,4 @@
-########################## Tic-Tac-Toe ############################
+# Tic-Tac-Toe
 
 Game of Tic-Tac-Toe made with a GUI in pygame. The game consists
 of two parts:
@@ -8,10 +8,8 @@ of two parts:
 
     2 Player: Where players can take turns to play against each 
               other
-                            
-###############################################################
 
-Requirements:
+### Requirements:
 
     Packages - Pygame library
     
